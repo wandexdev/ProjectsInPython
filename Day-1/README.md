@@ -14,6 +14,8 @@
  * Concatenating different strings using `+` 
 
 ## Task 3
+<img src="task3of1.png"
+     alt="Ouput" />
  * Input function syntax
  * inserting one function in another
  * writing comments
