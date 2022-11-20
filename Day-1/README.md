@@ -1,8 +1,8 @@
 # Day 1
 
 ## Task 1
-
-![Output](/task1of1.png)
+<img src="task1of1.png"
+     alt="Ouput" />
 
  * Printing to the console
  * appropriate syntax
