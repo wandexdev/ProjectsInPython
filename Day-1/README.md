@@ -4,11 +4,17 @@
 <img src="task1of1.png"
      alt="Ouput" />
  * Printing to the console
- * appropriate syntax
+ * appropriate print function syntax
  * sorted use of two different quotes in one line
 
 ## Task 2
 <img src="task2of1.png"
      alt="Ouput" />
- * Outputing numerous lines of strings with one `print()` syntax
+ * Outputing numerous lines of strings with one `print()` function
  * Concatenating different strings using `+` 
+
+## Task 3
+ * Input function syntax
+ * inserting one function in another
+ * writing comments
+ * counting length of string via `len()` function
