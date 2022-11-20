@@ -20,3 +20,9 @@
  * inserting one function in another
  * writing comments
  * counting length of string via `len()` function
+
+---
+# PROJECT 1: BAND NAME GENERATOR
+ * Variables
+ * Combination of all tasks 
+  

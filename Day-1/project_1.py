@@ -1,0 +1,5 @@
+print("======= HELLO AND WELCOME TO WANDE'S BAND NAME GENERATOR ======")
+print()
+userCity = input("What city did you grow up in? ")
+userPet = input("What is the name of your pet? ")
+print("Now Your band's would be called " + "===" + userCity + userPet + "===") 
