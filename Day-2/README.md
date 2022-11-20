@@ -8,3 +8,10 @@
  * Convert data types i.e `int()` to `str()` to `float() and vice versa
  * Addition
 
+## Task 2 _BMI CALCULATOR_
+ * Arithmetric Operators:
+   * `+` Addition
+   * `-` Subtraction
+   * `*` Multiplication
+   * `/` Division
+   * `**` Exponent
