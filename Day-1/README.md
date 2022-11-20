@@ -23,6 +23,8 @@
 
 ---
 # PROJECT 1: BAND NAME GENERATOR
+<img src="project_1.png.png"
+     alt="Ouput" />
  * Variables
  * Combination of all tasks 
   
