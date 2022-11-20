@@ -7,5 +7,5 @@ Raji Risikat Yewande
 ## Beginner 
 | Day | Project Title             | Description                                                                                                           | Directory                                                                                                                                                          |
 |-----|---------------------------|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | Band Name Generator       | First project to test variables, input, concatenation, user input etc                                                 | [Day-1](https://github.com/wandexdev/ProjectsInPython/tree/main/Day-1)
+| 1   | Band Name Generator       | First project to test variables, input, concatenation, user input etc                                                 | [Day-1](https://github.com/wandexdev/ProjectsInPython/blob/main/Day-1/project_1.py)
 | 2   | Tip Calculator            | Refreshed input, data types, numbers, Operations, type conversion, fstrings etc                                       | [Day-2]()
