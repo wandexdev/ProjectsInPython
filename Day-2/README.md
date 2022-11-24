@@ -8,13 +8,16 @@
  * Convert data types i.e `int()` to `str()` to `float() and vice versa
  * Addition
 
-## Task 2: BMI CALCULATOR
+## Task 2 BMI CALCULATOR
 <img src="task2of2.png"
      alt="Ouput" />
  * Arithmetric Operators:
    * `+` Addition
    * `-` Subtraction
-   * `*` Multiplication
+   * ` ` Multiplication
    * `/` Division
    * `**` Exponent
+
+## Task 3
+ * Rounding up floats to whole number with `round()` function
 
