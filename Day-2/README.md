@@ -19,6 +19,8 @@
    * `**` Exponent
 
 ## Task 3
+<img src="task3of2.png"
+     alt="Ouput" />
  * Rounding up float data type to whole number with `round()` function
    * `round(floatValue, n)` Where `n` equals total number of decimal places to be rounded.
  * The floor operator `//` and its role in automatic conversion of division results to interger data type as opposed to floats.
