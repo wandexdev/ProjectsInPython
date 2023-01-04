@@ -15,4 +15,9 @@
   * `>=` is greater or equal to
   * `==` is eqal to
   * `!=` is not equal to
-  * `=` is an assignment i.e when assigning variables 
+  * `=` is an assignment i.e when assigning variables
+
+## Task 2
+<img src="task2of3.png"
+     alt="Ouput" />
+* used modulo `(%)`. It divides though 2 given intergers and outputs the remainder
