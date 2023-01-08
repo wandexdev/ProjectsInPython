@@ -20,7 +20,7 @@
 ## Task 2
 <img src="task2of3.png"
      alt="Ouput" />
-* used modulo `(%)`. It divides though 2 given intergers and outputs the remainder
+* used modulo `(%)`. It divides though 2 given intergers and outputs the remainder. i.e the reminder of the division between the two numbers
 
 ## Task 3
 <img src="task3of3.png"
@@ -35,4 +35,7 @@
    * if no `elif`, it executes the final `else`
 * used fstring and arithmetric operators from previous lessons also
 
-
+## Task 4: Leap year verification
+<img src="task4of3.png"
+     alt="Ouput" />
+* 
