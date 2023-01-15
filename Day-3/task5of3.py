@@ -1,5 +1,5 @@
 # Automatic Pizza order Program
-print("Yummy Pizza's)
+print("Yummy Pizza's")
 pizzaSize = input("What size of pizza do you prefer? small, medium or Large")
 pepperoni = input("Do you want some pepperoni? ")
 xtraCheese = input("Would you like some extra cheese? ")
