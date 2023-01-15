@@ -45,3 +45,4 @@
 	alt="Ouput" />
 * assigned a changing variable to each conditions if executed
 * used f-string to print out final variable together with string
+* used incremental `+=`

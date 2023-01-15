@@ -18,7 +18,7 @@ if height > 120:
 
     photo = input("Do you want your photo taken? ")
     if photo == "yes":
-        fee = fee + 3
+        fee += 3
         print(f"your new fee is ${fee}")
     else:
         fee = fee
