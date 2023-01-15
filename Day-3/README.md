@@ -38,4 +38,10 @@
 ## Task 4: Leap year verification
 <img src="task4of3.png"
      alt="Ouput" />
-* 
+* used multiple elif
+
+## Practice
+<img src="practice.png"
+	alt="Ouput" />
+* assigned a changing variable to each conditions if executed
+* used f-string to print out final variable together with string
