@@ -16,7 +16,7 @@ if pizzaSize == "small":
         print(f"Your bill remains {order}")
         if xtraCheese == "yes":
             order +=1
-            print(f"Your total bill is {order}")
+            print(f"Your total bill is ${order}")
         else:
             order = order
             print(f"Your bill remains {order}")
@@ -31,7 +31,7 @@ elif pizzaSize == "medium":
         print(f"Your bill remains {order}")
         if xtraCheese == "yes":
             order +=1
-            print(f"Your total bill is {order}")
+            print(f"Your total bill is ${order}")
         else:
             order = order
             print(f"Your bill remains {order}")
@@ -45,7 +45,7 @@ else:
         print(f"Your bill remains {order}")
         if xtraCheese == "yes":
             order +=1
-            print(f"Your total bill is {order}")
+            print(f"Your total bill is ${order}")
         else:
             order = order
             print(f"Your bill remains {order}")
