@@ -46,3 +46,9 @@
 * assigned a changing variable to each conditions if executed
 * used f-string to print out final variable together with string
 * used incremental `+=`
+
+## Task 5
+* more complex multiple if
+
+## Task 6
+* using Logical operators to combine multiple if statements
