@@ -51,4 +51,7 @@
 * more complex multiple if
 
 ## Task 6
-* using Logical operators to combine multiple if statements
+* using Logical operators to combine multiple conditional statemenrs
+	* `and` ( if condition a and condition b are true)
+	* `or` ( if any of conditions a or b is true)
+	* `not` () 
