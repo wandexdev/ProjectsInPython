@@ -50,8 +50,14 @@
 ## Task 5
 * more complex multiple if
 
-## Task 6
+## Task 6: Love Calculator
 * using Logical operators to combine multiple conditional statemenrs
 	* `and` ( if condition a and condition b are true)
 	* `or` ( if any of conditions a or b is true)
-	* `not` () 
+	* `not` (reverses a condition. makes true become false and vice versa)
+	* used `lower()` function to convert all upper case in a string to lower case e.g string = "PYTHON Projects"
+		print(string.lower())
+	=>	python projects
+	* used `count()` function to count how many items are in a collection. e.g string = "The energy is high!"
+		print(string.count('e'))
+	=>	3
