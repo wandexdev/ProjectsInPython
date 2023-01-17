@@ -1,7 +1,7 @@
 # Automating love score process
 print()
-firstname = input("give me your preferred name")
-secondname = input("give me your partners name")
+firstname = input("give me your preferred name ")
+secondname = input("give me your partners name ")
 joinName = firstname + secondname
 small_joinName = joinName.lower()
 
@@ -18,9 +18,9 @@ love = l+o+v+e
 
 score = str(true) + str(love)
 
-if score < 10 or score > 90:
+if int(score) < 10 or int(score) > 90:
     print(f"your score is {score}, you go together like coke and mentos")
-elif score >= 40 and score <= 50:
+elif snt(score) >= 40 and int(score) <= 50:
     print (f"your score is {score}, you are alright together")    
 else:
     print(f"youre score is {score}")     
