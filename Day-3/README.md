@@ -59,5 +59,5 @@
 		print(string.lower())
 	=>	python projects
 	* used `count()` function to count how many items are in a collection. e.g string = "The energy is high!"
-		print(string.count('e'))
+	print(string.count('e'))
 	=>	3
