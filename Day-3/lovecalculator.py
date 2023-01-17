@@ -20,8 +20,8 @@ love = l+o+v+e
 score = str(true) + str(love)
 
 if int(score) < 10 or int(score) > 90:
-    print(f"your score is {score}, you go together like coke and mentos")
+    print(f"your score is {score}%, you go together like coke and mentos. lmao")
 elif int(score) >= 40 and int(score) <= 50:
-    print (f"your score is {score}, you are alright together")    
+    print (f"your score is {score}%, you are alright together. Soul mates")    
 else:
-    print(f"youre score is {score}")     
+    print(f"your love score is {score}%, expect a boring + awkward relo")     
