@@ -1,7 +1,8 @@
 # Automating love score process
+print("==== Check your DESTINY!!!! ====")
 print()
-firstname = input("give me your preferred name ")
-secondname = input("give me your partners name ")
+firstname = input("give me your preferred name: \n")
+secondname = input("give me your partners name: \n")
 joinName = firstname + secondname
 small_joinName = joinName.lower()
 
