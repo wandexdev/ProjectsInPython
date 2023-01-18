@@ -51,13 +51,22 @@
 * more complex multiple if
 
 ## Task 6: Love Calculator
-* using Logical operators to combine multiple conditional statemenrs
+* using Logical operators to combine multiple conditional statements
 	* `and` ( if condition a and condition b are true)
 	* `or` ( if any of conditions a or b is true)
 	* `not` (reverses a condition. makes true become false and vice versa)
-	* used `lower()` function to convert all upper case in a string to lower case e.g string = "PYTHON Projects"
+* used `lower()` function to convert all upper case in a string to lower case e.g string = "PYTHON Projects"
 		print(string.lower())
-	=>	python projects
-	* used `count()` function to count how many items are in a collection. e.g string = "The energy is high!"
+	=>	python projects (all changed to lower cases)
+* used `count()` function to count how many items are in a collection. e.g string = "The energy is high!"
 	print(string.count('e'))
-	=>	3
+	=>	3 (all occurence of 'e' counted)
+
+
+## Project: Adventure Island
+<img src="project_2.png"
+     alt="Ouput" />
+* visited ascii.co.uk/art to select preferred art and copy/paste
+* used triple single quotes `'''......'''` instead of 1 double quotes `"..."` to print multiple lines. single double quotes would throw errors
+* used a backslash `\` to ignore natural quoted words in a string. e.g print('The principal\'s trouser was neither "black" nor "red"')
+* 
