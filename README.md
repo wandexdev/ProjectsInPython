@@ -10,4 +10,4 @@ Raji Risikat Yewande
 | 1   | Band Name Generator       | First project to test variables, input, concatenation, user input etc                                                 | [Project 1](https://github.com/wandexdev/ProjectsInPython/blob/main/Day-1/project_1.py)
 | 2   | Tip Calculator            | Refreshed input, data types, numbers, Operations, type conversion, fstrings etc                                       | [Project 2](https://github.com/wandexdev/ProjectsInPython/blob/main/Day-2/project_2.py)
 | 3   | Treasure Island Adventure | Used logical Operators, Conditional Statements, count() function, lower() function, Scope etc                         | [Project 3](https://github.com/wandexdev/ProjectsInPython/blob/main/Day-3/lovecalculator.py)
-| 4   | Rock Paper Scissors       | Randomization(Random module) and Python lists                                                                         | [Project 4]()
+| 4   | Rock Paper Scissors       | Randomization(Random module) and Python                                                                        | [Project 4]()
